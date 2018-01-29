@@ -1,4 +1,6 @@
-[![Rando](https://online.swagger.io/validator?url=http://petstore.swagger.io/v2/swagger.json)](https://raw.githubusercontent.com/bcgov/api-specs/master/geocoder/geocoder-combined.json)
+[![Validate](http://online.swagger.io/validator?url=https://raw.githubusercontent.com/bcgov/api-specs/master/geocoder/geocoder-combined.json)](https://raw.githubusercontent.com/bcgov/api-specs/master/geocoder/geocoder-combined.json)
+
+
 
 
 
