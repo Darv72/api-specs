@@ -1,3 +1,7 @@
+[![Rando](https://online.swagger.io/validator?url=http://petstore.swagger.io/v2/swagger.json)](https://raw.githubusercontent.com/bcgov/api-specs/master/geocoder/geocoder-combined.json)
+
+
+
 # API-Management
 
 DataBC offers an API management service for RESTful APIs owned and managed by the Province of BC. 
